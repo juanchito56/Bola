@@ -450,3 +450,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [03Apr2025 23:33:01.644] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Sanosky[/127.168.202.157:43135] logged in with entity id 17 at (-3.68881846796326, -56.381697985155775, -5.549411240065078)
 [03Apr2025 23:33:01.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanosky joined the game
 [03Apr2025 23:38:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanosky: Set the time to 1000]
+[03Apr2025 23:47:47.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanosky has made the advancement [Complex Curiosities]
