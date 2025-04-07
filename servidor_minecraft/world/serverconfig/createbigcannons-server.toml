@@ -76,8 +76,6 @@
 		projectilesCanChunkload = true
 		#.
 		smokeCloudsCanChunkload = true
-		#.
-		splashFarAway = true
 
 	#.
 	#Big Cannon Munitions
