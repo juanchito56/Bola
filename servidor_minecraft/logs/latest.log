@@ -440,3 +440,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Apr2025 03:54:39.655] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[-2.8665848625E7, -58.17499999701977, -257.2502387352288] -> [-1507.8320388831198, -55.67708577264464, 1.2290055625E7] returning empty list! this might break things
 [07Apr2025 03:56:24.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sanosky: Set the weather to clear]
 [07Apr2025 03:57:34.965] [Server thread/INFO] [org.valkyrienskies.eureka.util.ShipAssembler/]: Assembled ship with 11 blocks, out of 32768 allowed
+[07Apr2025 04:00:29.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sanosky has made the advancement [Complex Curiosities]
